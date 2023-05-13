@@ -17,6 +17,7 @@ nav {
     min-width: 400px;
     max-width: 100%;
     justify-content: center;
+    border-top: solid #996629 6px;
     gap: 15px;
     /*funge come il padding*/
     background-color: #C6A47C
